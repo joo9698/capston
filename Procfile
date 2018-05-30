@@ -1,0 +1,1 @@
+web: gunicorn cpss.wsgi --log-file -
